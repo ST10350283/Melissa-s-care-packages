@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #bdbaba;
+    
+}
+
+/* Style the header section */
+header {
+    background-color: #bdbaba;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #967d7d;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+/* Style the main content section */
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #773838;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+preview {
+    width: 500px;
+    padding: 100px 0;
+    margin: 0;
+    border: #0077cc;
+}
+
+/* Style the footer section */
+footer {
+    text-align: center;
+    background-color: #8b7e7e;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Style headings, paragraphs, and links within the main content */
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+        
+main content {
+    width: 1000px;
+    padding: 100px 0;
+    margin: 0%;
+    border: #0077cc;
+
+
+}
+@media(max-width:600px){}
+.div.gallery{
+    margin: 5px;
+    border:1px;
+    float:left;
+    width:180px;
+}
+div.gallery:hover{
+    border:1px
+}
+.div.gallery img{
+    width:100%;
+    height:auto;
+}
+div.desc{
+    padding: 15px;
+    text-align: center;
+}
